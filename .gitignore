@@ -1,6 +1,2 @@
-
-/Backend/2 HTTP Requests/node_modules
-/Backend/3.3 Postman/node_modules
-/Backend/3.4 Middleware/node_modules/iconv-lite
-/Backend/3.4 Middleware/node_modules
-/Backend/1 Express Server
+# Ignore all nodemodule folder
+node_modules
