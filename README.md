@@ -31,3 +31,7 @@ git rm -r --cached .
 
 6. Git Challenge:
 https://learngitbranching.js.org/
+
+7. Running in with Unauthorised Litecoin mining on AWS
+https://vertis.io/2013/12/16/unauthorised-litecoin-mining
+
