@@ -1,6 +1,4 @@
-PS C:\Users\haitr\GitHub\Full-Stack-Web-Development-Note\Backend-NestJS> nest g module computer
-CREATE computer/computer.module.ts (89 bytes)
-PS C:\Users\haitr\GitHub\Full-Stack-Web-Development-Note\Backend-NestJS> cd c:\Users\haitr\GitHub\Full-Stack-Web-Development-Note\Backend-NestJS\di
+c:\Users\haitr\GitHub\Full-Stack-Web-Development-Note\Backend-NestJS\di
 PS C:\Users\haitr\GitHub\Full-Stack-Web-Development-Note\Backend-NestJS\di> nest g module computer
 CREATE src/computer/computer.module.ts (89 bytes)
 UPDATE src/app.module.ts (334 bytes)

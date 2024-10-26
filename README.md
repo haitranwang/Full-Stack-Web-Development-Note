@@ -37,3 +37,7 @@ https://vertis.io/2013/12/16/unauthorised-litecoin-mining
 
 8. Get my IP address on: https://whatismyip.host/
 
+7. Cheat Sheet:
+- https://overapi.com/
+- https://devhints.io/
+

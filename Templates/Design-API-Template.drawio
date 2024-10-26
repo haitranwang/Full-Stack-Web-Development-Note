@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e" pages="20">
     <diagram id="ZkPhA30Rff_n_aJI1uOT" name="01 - routes">
-        <mxGraphModel dx="855" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+        <mxGraphModel dx="1460" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -19,13 +19,13 @@
                 <mxCell id="YxTgbZuhf_boNZElpSq_-5" value="Body - { email, password }" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
                     <mxGeometry x="1170" y="370" width="150" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="YxTgbZuhf_boNZElpSq_-6" value="Method and Route" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+                <mxCell id="YxTgbZuhf_boNZElpSq_-6" value="&lt;font color=&quot;#000000&quot;&gt;Method and Route&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
                     <mxGeometry x="1010" y="330" width="150" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="YxTgbZuhf_boNZElpSq_-7" value="Body or Query String" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+                <mxCell id="YxTgbZuhf_boNZElpSq_-7" value="&lt;font color=&quot;#000000&quot;&gt;Body or Query String&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
                     <mxGeometry x="1170" y="330" width="150" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="YxTgbZuhf_boNZElpSq_-8" value="Description" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+                <mxCell id="YxTgbZuhf_boNZElpSq_-8" value="&lt;font color=&quot;#000000&quot;&gt;Description&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;fontStyle=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
                     <mxGeometry x="1330" y="330" width="150" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="YxTgbZuhf_boNZElpSq_-9" value="Create a new user and sign in" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
@@ -70,7 +70,7 @@
                 <mxCell id="YxTgbZuhf_boNZElpSq_-22" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=0;fontSize=9;rotation=-180;" parent="1" vertex="1">
                     <mxGeometry x="1490" y="370" width="30" height="70" as="geometry"/>
                 </mxCell>
-                <mxCell id="YxTgbZuhf_boNZElpSq_-23" value="Controllers" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                <mxCell id="YxTgbZuhf_boNZElpSq_-23" value="&lt;font color=&quot;#000000&quot;&gt;Controllers&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
                     <mxGeometry x="1530" y="330" width="130" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="YxTgbZuhf_boNZElpSq_-24" value="Users Controller" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
@@ -82,10 +82,10 @@
                 <mxCell id="YxTgbZuhf_boNZElpSq_-26" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=0;fontSize=9;rotation=-180;" parent="1" vertex="1">
                     <mxGeometry x="1490" y="450" width="30" height="110" as="geometry"/>
                 </mxCell>
-                <mxCell id="YxTgbZuhf_boNZElpSq_-27" value="Services" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                <mxCell id="YxTgbZuhf_boNZElpSq_-27" value="&lt;font color=&quot;#000000&quot;&gt;Services&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
                     <mxGeometry x="1670" y="330" width="130" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="YxTgbZuhf_boNZElpSq_-28" value="Repositories" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                <mxCell id="YxTgbZuhf_boNZElpSq_-28" value="&lt;font color=&quot;#000000&quot;&gt;Repositories&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
                     <mxGeometry x="1810" y="330" width="130" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="YxTgbZuhf_boNZElpSq_-29" value="Users Service" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
@@ -103,7 +103,7 @@
                 <mxCell id="YxTgbZuhf_boNZElpSq_-33" value="Users Module" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
                     <mxGeometry x="1520" y="435" width="430" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="e92-0lLkvxFAv3cz48rX-1" value="Used Car Pricing API" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+                <mxCell id="e92-0lLkvxFAv3cz48rX-1" value="&lt;font color=&quot;#000000&quot;&gt;Used Car Pricing API&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
                     <mxGeometry x="670" y="330" width="280" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="e92-0lLkvxFAv3cz48rX-2" value="Users Sign up with email/password" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
